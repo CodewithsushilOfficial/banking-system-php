@@ -1,6 +1,6 @@
 # Basic Banking System
 ## [Website Demo](https://pruthvi7384.000webhostapp.com/)
-## [Youtub Video](https://youtu.be/_NfUH89qRxk)
+
 
 Admin Login Cradntial
 
